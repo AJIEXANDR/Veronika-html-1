@@ -1,0 +1,32 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: azure;
+  color: #212121;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+}
+
+.about {
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 35px;
+  padding-right: 35px;
+}
+
+.favorite-title {
+  text-align: center;
+}
+
+.about h1 {
+  text-shadow: 2px 2px 4px #212121;
+  margin-bottom: 10px;
+}
+
+.about-text {
+  text-indent: 10px;
+}
