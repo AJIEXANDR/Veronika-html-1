@@ -1,6 +1,6 @@
 body {
   font-family: "Roboto", sans-serif;
-  background-color: azure;
+  background-color: rgb(185, 229, 229);
   color: #212121;
 }
 
@@ -18,15 +18,16 @@ h3 {
   padding-right: 35px;
 }
 
-.favorite-title {
-  text-align: center;
+table {
+  border-collapse: collapse;
 }
 
-.about h1 {
-  text-shadow: 2px 2px 4px #212121;
-  margin-bottom: 10px;
+caption {
+  margin-bottom: 5px;
 }
 
-.about-text {
-  text-indent: 10px;
+table th,
+table td {
+  padding: 9px;
+  border: 1px solid #2a2a2a;
 }
