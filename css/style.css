@@ -4,22 +4,16 @@ body {
   color: #212121;
 }
 
-h1,
-h2,
-h3 {
-  margin: 0;
-}
-
 .about {
   margin-top: 50px;
-  margin-left: auto;
-  margin-right: auto;
   padding-left: 35px;
   padding-right: 35px;
 }
 
 table {
   border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 caption {
